@@ -19,5 +19,6 @@ Get the latest update information about BuildRP server maintenance.
 3/10/15
 
       Findng out whitch addon is causing the issue with ramdom user receiving admin.
+            Removed - [E2] DamageCore, DarkRP Money Extension, Wire E2 Extension ChatPrint, Epresion Advanced 2,[E2] PlayerCore,             TylerB's Shipment E2 Functions
  
  

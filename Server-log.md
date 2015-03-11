@@ -22,5 +22,9 @@ Get the latest update information about BuildRP server maintenance.
             Removed - [E2] DamageCore, DarkRP Money Extension, Wire E2 Extension ChatPrint, Epresion Advanced 2,
             [E2] PlayerCore, TylerB's Shipment E2 Functions
       Add Spy Job for donors.
+      
+3/11/15
+
+        Fixed the Anti-Cheat so only admin and up ranks can see the menu, Superadmin and up can edit the menu.
  
  

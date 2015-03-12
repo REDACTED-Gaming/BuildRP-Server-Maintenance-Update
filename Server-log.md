@@ -18,7 +18,7 @@ Get the latest update information about BuildRP server maintenance.
 
 3/10/15
 
-      Findng out whitch addon is causing the issue with ramdom user receiving admin.
+      Findng out whitch addon is causing the issue with ramdom user receiving admin. (Not Fixed)
             Removed - [E2] DamageCore, DarkRP Money Extension, Wire E2 Extension ChatPrint, Epresion Advanced 2,
             [E2] PlayerCore, TylerB's Shipment E2 Functions
       Add Spy Job for donors.
@@ -26,5 +26,12 @@ Get the latest update information about BuildRP server maintenance.
 3/11/15
 
         Fixed the Anti-Cheat so only admin and up ranks can see the menu, Superadmin and up can edit the menu.
+        added Sourcebans (Still working on it)
+        
+3/12/15
+
+        Findng out whitch addon is causing the issue with ramdom user receiving admin.
+            Removed - Unbreakable, Precision Alignment Workshop, Make Spherical
+            
  
  

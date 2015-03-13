@@ -33,6 +33,7 @@ Get the latest update information about BuildRP server maintenance.
         Findng out whitch addon is causing the issue with ramdom user receiving admin.
             Removed - Unbreakable, Precision Alignment Workshop, Make Spherical
         Working on making the shipments spawn in with the right model not as an AK47
+        Changed the map to GM_Construct to try to get more players
             
  
  

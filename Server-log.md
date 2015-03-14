@@ -34,6 +34,13 @@ Get the latest update information about BuildRP server maintenance.
             Removed - Unbreakable, Precision Alignment Workshop, Make Spherical
         Working on making the shipments spawn in with the right model not as an AK47
         Changed the map to GM_Construct to try to get more players
+        
+3/13/15
+
+        Removed FS:2 weapons
+        Add MadCow
+        Add Precision Alignment Workshop, [E2] DamageCore, DarkRP Money Extension, Epresion Advanced 2,
+            [E2] PlayerCore, TylerB's Shipment E2 Functions
             
  
  

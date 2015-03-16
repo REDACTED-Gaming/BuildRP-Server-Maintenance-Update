@@ -42,5 +42,7 @@ Get the latest update information about BuildRP server maintenance.
         Add Precision Alignment Workshop, [E2] DamageCore, DarkRP Money Extension, Epresion Advanced 2,
             [E2] PlayerCore, TylerB's Shipment E2 Functions
             
- 
+ 3/15/15
+        Add loading scren
+        Add forum register/ link module
  

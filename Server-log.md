@@ -7,7 +7,7 @@ Get the latest update information about BuildRP server maintenance.
 
 3/8/15
 
-        Add buyable gun ammo to all the Arms dealers to sel
+        Add buyable gun ammo to all the Arms dealers to sell
 
 3/9/15
 
@@ -18,10 +18,10 @@ Get the latest update information about BuildRP server maintenance.
 
 3/10/15
 
-         Findng out whitch addon is causing the issue with ramdom user receiving admin. (Not Fixed)
+        Findng out whitch addon is causing the issue with ramdom user receiving admin. (Not Fixed)
               Removed - [E2] DamageCore, DarkRP Money Extension, Wire E2 Extension ChatPrint, Epresion Advanced 2,
               [E2] PlayerCore, TylerB's Shipment E2 Functions
-          Add Spy Job for donors.
+        Add Spy Job for donors.
       
 3/11/15
 
@@ -49,4 +49,4 @@ Get the latest update information about BuildRP server maintenance.
         
 3/17/15
 
-       Fixed Mayor Job
+        Fixed Mayor Job

@@ -46,3 +46,7 @@ Get the latest update information about BuildRP server maintenance.
 
         Add loading scren
         Add forum register/ link module
+        
+3/17/15
+
+       Fixed Mayor Job

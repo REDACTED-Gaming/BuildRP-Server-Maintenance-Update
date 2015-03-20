@@ -54,6 +54,8 @@ Get the latest update information about BuildRP server maintenance.
 3/19/15
 
         Updated ServerGuard
+        Change spawn location when people type kill in console 
+        Change SWAT job permissions from donater only to user
         
 3/20/15
 

@@ -50,3 +50,14 @@ Get the latest update information about BuildRP server maintenance.
 3/17/15
 
         Fixed Mayor Job
+        
+3/19/15
+
+        Updated ServerGuard
+        
+3/20/15
+
+        Update DarkRP main Files
+        Fixed Jail Spawns
+        Change AOD spawn
+        AOD now should spawn with godmode and unable to be arrested

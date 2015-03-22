@@ -63,3 +63,8 @@ Get the latest update information about BuildRP server maintenance.
         Fixed Jail Spawns
         Change AOD spawn
         AOD now should spawn with godmode and unable to be arrested
+        
+3/21/15
+
+        add propsworld to save props on respawns
+        working on an anti crash addon

@@ -66,5 +66,14 @@ Get the latest update information about BuildRP server maintenance.
         
 3/21/15
 
-        add propsworld to save props on respawns
-        working on an anti crash addon
+        Add propsworld to save props on respawns
+        Working on an anti crash addon
+        
+3/22/15
+
+        Add multi no collide tool
+        
+3/23/15
+
+        Rules updated
+

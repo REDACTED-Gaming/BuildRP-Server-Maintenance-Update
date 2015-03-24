@@ -76,4 +76,7 @@ Get the latest update information about BuildRP server maintenance.
 3/23/15
 
         Rules updated
+        Hope of fixed the Adv Dup 2 Crash issue
+        Add job category to the scoreboard
+        Add a plugin to show where invisible prop/ and E2 are
 

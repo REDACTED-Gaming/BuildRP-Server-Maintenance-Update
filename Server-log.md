@@ -79,4 +79,13 @@ Get the latest update information about BuildRP server maintenance.
         Hope of fixed the Adv Dup 2 Crash issue
         Add job category to the scoreboard
         Add a plugin to show where invisible prop/ and E2 are
+        
+3/26/15
+
+        Fixed bugs with scoreboard
+        Fixed some bugs in REDACTED plugin
+        Fixed madcow weapons
+        Add !party addon
+        Add Radio addon
+        
 
